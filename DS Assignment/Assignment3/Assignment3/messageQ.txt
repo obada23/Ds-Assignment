@@ -1,0 +1,43 @@
+6
+1 
+0 E t 
+0 E g
+4
+0 E r
+0 E e
+-2
+0 E w
+0 E a
+3
+0 E t
+-1
+0 E c
+-3
+0 E g
+2
+0 E g
+0 E f
+-5 
+0 E e
+0 E i 
+3
+0 E i
+0 E f
+2
+0 D 
+0 E v
+2
+0 E h
+0 E e
+3
+0 E e
+0 E d
+2
+0 D
+0 E t
+3
+0 E h
+0 E e
+-2
+0 E s
+2

@@ -1,0 +1,4 @@
+3
+Sphere 4 2 3 4
+Cylinder 5 10 4 5 6
+Sphere 3 1 0 6
